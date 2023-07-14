@@ -8,6 +8,7 @@ public class RentalformApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RentalformApplication.class, args);
+
 	}
 
 }
